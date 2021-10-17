@@ -54,7 +54,7 @@
   }
 }
 body{
-  padding-top:50px;
+  padding-top:0;
   background: #555;
 }
 body {
@@ -137,7 +137,7 @@ body {
     color: #fff;
     text-decoration: none;
     border-radius: 1px;
-    font-size: 130%;
+    font-size: 1.2rem;
     transition: all 0.2s ease 0s;
   }
   .card .back .backcontent{
@@ -4118,7 +4118,7 @@ textarea.form-control-lg {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 2rem;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -4128,6 +4128,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  font-size: 1.25rem;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
